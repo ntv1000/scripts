@@ -1,0 +1,3 @@
+[submodule "telegraf-inputs/telegraf-btrfs-exec"]
+	path = telegraf-inputs/telegraf-btrfs-exec
+	url = https://github.com/clara-j/telegraf-btrfs-exec.git
