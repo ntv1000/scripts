@@ -1,0 +1,12 @@
+/dev
+/media
+/mnt
+/proc
+/run
+/sys
+/tmp
+/var/tmp/*
+/var/cache/*
+/home/*/.cache/*
+/var/lib/lxcfs
+/swap.img
