@@ -34,8 +34,8 @@ archer2_id="archer-c2-192.168.1.5"
 netgear_id="netgear-r7000-192.168.1.1"
 config="config.bin"
 
-source ../archer-c2.sh
-source ../netgear-r7000.sh
+source archer-c2.sh
+source netgear-r7000.sh
 
 
 echo "Backing up router at 192.168.1.4"
