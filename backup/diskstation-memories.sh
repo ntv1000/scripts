@@ -4,7 +4,7 @@ script_dir=$(dirname $0)
 echo "Switching to $script_dir"
 cd $script_dir
 
-source ../../telegraf-inputs/send-event.sh homeserver:8086 telegraf backup_started "Backup started" "Backing up diskstation memories (borg)" "backup"
+source ../telegraf-inputs/send-event.sh homeserver:8086 telegraf backup_started "Backup started" "Backing up diskstation memories (borg)" "backup"
 source ./borg-prune-strats.sh
 
 
