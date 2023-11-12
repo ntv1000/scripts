@@ -1,1 +1,1 @@
-nvidia-settings -a GPUFanControlState=1 -a GPUTargetFanSpeed=30
+nvidia-settings -a GPUFanControlState=1 -a GPUTargetFanSpeed=35
